@@ -1,2 +1,3 @@
 # VariantCalling
-VariantCalling of WGS datasets
+
+Variant calling of WGS datasets
